@@ -1,0 +1,8 @@
+openai-whisper
+torch
+sounddevice
+scipy
+numpy
+language_tool_python
+pyaudio
+requests
