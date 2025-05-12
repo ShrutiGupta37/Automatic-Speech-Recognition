@@ -26,6 +26,10 @@ This project captures live audio using a microphone, transcribes it using [OpenA
 pip install -r requirements.txt
 ```
 ## 🖥️ How to Run
+Clone the repo
+```bash
+git clone https://github.com/ShrutiGupta37/Automatic-Speech-Recognition.git
+```
 Whisper (Offline) ASR
 ```bash
 python ASR_whisper.py
